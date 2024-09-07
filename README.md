@@ -40,7 +40,7 @@ To run the shell, execute the following command:
 
 	./minishell
 
-You should see this promp:
+You should see this prompt:
 
 ![minishell_prompt](minishell_prompt.png)
 
