@@ -25,9 +25,9 @@
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/arnoop88/minishell.git
-   cd minishell
+	```bash
+	git clone https://github.com/arnoop88/minishell.git
+	cd minishell
 
 2. Compile the project:
 
@@ -37,13 +37,13 @@
 ## Running the Shell
 
 To run the shell, execute the following command:
-	```bash
+
 	./minishell
-	```
+
 You should see this promp:
-	```bash
-	\033[1;32mminishell> \033[0m
-	```
+
+![minishell_prompt](minishell_prompt.png)
+
 You can then start typing commands, just like in a standard bash shell
 
 ## Supported Built-in Commands
